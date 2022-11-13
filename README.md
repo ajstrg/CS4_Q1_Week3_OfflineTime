@@ -19,23 +19,43 @@ Write a code that does the following:
 Sample Run
 
 How many hours offline for each hour of KHub? 0.5
+
 How many hours offline for each hour of gaming? 2
+
 How many hours offline for each hour of youtube? 1
+
 How many hours offline for each hour of social media? 1
+
 What will you do (KHub, gaming, youtube, social media, end)? KHub
+
 For how many hours? 4
+
 What will you do (KHub, gaming, youtube, social media, end)? gaming
+
 For how many hours? 1
+
 What will you do (KHub, gaming, youtube, social media, end)? end
+
 Total hours online: 5.0
+
 Total offline hours needed: 4.0
+
 Will you continue the program (y/n)? y
+
 What will you do (KHub, gaming, youtube, social media, end)? youtube
+
 For how many hours? 5
+
 What will you do (KHub, gaming, youtube, social media, end)? gaming
+
 For how many hours? 5
+
 What will you do (KHub, gaming, youtube, social media, end)? end
+
 Total hours online: 10.0
+
 Total offline hours needed: 15.0
+
 Notice: You spent too long online today!
+
 Will you continue the program (y/n)? n
