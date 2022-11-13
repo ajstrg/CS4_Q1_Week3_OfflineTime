@@ -1,6 +1,6 @@
-# CS4_Q1_Week3_OfflineTime
+### CS4_Q1_Week3_OfflineTime
 
-Task
+## Task
 
 You have determined that your time online is usually spent on the following: KHub, games, youtube, and social media. 
 You decide that for however long you spend on each of these, you will try to spend a corresponding time offline.
@@ -14,10 +14,13 @@ Write a code that does the following:
 - Ask the user if they would like to continue the program.
 - If continued, all values except those defined in step 1 are reset.
 
------
+### Flowchart
 
-Sample Run
+![qownnotes-media-RIrEXa](Flowchart.png)
 
+## Sample Run
+
+```
 How many hours offline for each hour of KHub? 0.5
 
 How many hours offline for each hour of gaming? 2
@@ -59,3 +62,4 @@ Total offline hours needed: 15.0
 Notice: You spent too long online today!
 
 Will you continue the program (y/n)? n
+```
