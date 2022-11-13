@@ -16,7 +16,7 @@ Write a code that does the following:
 
 ### Flowchart
 
-![qownnotes-media-RIrEXa](Flowchart.png)
+![qownnotes-media-RIrEXa](README.png)
 
 ## Sample Run
 
